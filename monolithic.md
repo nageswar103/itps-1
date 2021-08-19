@@ -60,9 +60,9 @@ day-1
     * dev-eip
 - [x] create the bastion in :dev-bastion
 - [x] create the jenkins :dev-jenkins
-- [ ] create the react/api : dev-app, dev-api
-- [ ] create the rds - dev-rds , dbname: dev_api , username: dev_apiuser
-- [ ] create the 3 alb , 
+- [x] create the react/api : dev-app, dev-api
+- [x] create the rds - dev-rds , dbname: dev_api , username: dev_apiuser
+- [x] create the 3 alb , 
       * jenkins-alb 
       * app-alb 
       * api-alb --private subnet--internal 
@@ -70,8 +70,8 @@ day-1
 
 
 #### CICD:
-- [ ] - create jenkins pipeline job for the : dev-appdeploy : /opt/app
-- [ ] create the jenkins pipeline job for the: dev-apideploy : /opt/api
+- [x] - create jenkins pipeline job for the : dev-appdeploy : /opt/app
+- [x] create the jenkins pipeline job for the: dev-apideploy : /opt/api
 
 ### validatoin:
 hello world : dev.domain-name--app
@@ -86,6 +86,6 @@ test.py : ls -ltr /opt/api
 
 
 #### Observability:
-- [ ] Grafana , Prometheus - ec2 - check instances - 3
-- [ ] Kibana, ElasticSearch - Ec2 - check kibana url 
+- [x] Grafana , Prometheus - ec2 - check instances - 3
+- [x] Kibana, ElasticSearch - Ec2 - check kibana url 
 
