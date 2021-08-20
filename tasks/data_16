@@ -1,0 +1,45 @@
+16/08/2021
+==============================
+grafana, elk-------------done
+
+DB - 2 dbs  ------done
+
+student and employee -----done
+
+emp_details 
+emp name, emp no , insert 1000 records ---inprogress
+
+student_deatils
+student_name student_age
+
+Cloudwatch dashboards -----done
+howmany ec2 count dashboard ---done
+alert on ec2 is down -----done
+stop ec2s from 9 to 5 using  --------inproges
+
+terraform state file upload into s3 ----inproges
+
+data_17
+===============
+
+jenkins.....master.....slave  ------------done
+autoscaling.......nodes...flask --------------done
+basic
+
+
+flask examples  -------done
+
+just create a route
+
+
+test url with postman 
+
+
+
+phython with json
+
+
+run phython program and to get ec2-instances id 
+
+
+creaton phython with csv(comma seperated values)
